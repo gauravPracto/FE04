@@ -43,10 +43,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-npm 5.2+
-
 ```
-Give examples
+npm 5.2+
 ```
 
 ### Installing
@@ -70,13 +68,15 @@ until finished
 
 As you Like
 
+```
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
 - [JavaScript](https://www.javascript.com/) - language
 - [React](https://reactjs.org/) - frontend Library
 - [@redux-toolkit](https://redux-toolkit.js.org/) - redux library
-- [reactStrap] (https://reactstrap.github.io/) - customize
+- [reactStrap] (https://reactstrap.github.io/) - customizer
+
 ## ✍️ Authors <a name = "authors"></a>
 
 - [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
@@ -88,4 +88,7 @@ See also the list of [contributors](https://github.com/kylelobo/The-Documentatio
 - Hat tip to anyone whose code was used
 - Inspiration
 - References
+
+```
+
 ```
