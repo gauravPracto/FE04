@@ -55,9 +55,9 @@ Say what the step will be
 
 ```
 clone https://github.com/gauravPracto/FE04.git
-cd FE04/weather-app
+cd FE04
 npm install
-npm start
+npm run serve
 ```
 
 until finished
