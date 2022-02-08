@@ -58,6 +58,9 @@ clone https://github.com/gauravPracto/FE04.git
 cd FE04
 npm install
 npm run serve
+
+run on the url http://localhost:3010/
+
 ```
 
 until finished
