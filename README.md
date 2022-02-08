@@ -75,7 +75,7 @@ As you Like
 - [JavaScript](https://www.javascript.com/) - language
 - [React](https://reactjs.org/) - frontend Library
 - [@redux-toolkit](https://redux-toolkit.js.org/) - redux library
-- [reactStrap] (https://reactstrap.github.io/) - customizer
+- [reactStrap](https://reactstrap.github.io/) - customizer
 
 ## ✍️ Authors <a name = "authors"></a>
 
