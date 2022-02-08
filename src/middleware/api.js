@@ -3,7 +3,7 @@ const { reqSucceed, reqUnSucceed } = require("../redux/weather").actions;
 let weather = new OpenWeatherAPI({
   key: "5a619077da19af694c1b6f964c0ec25d",
   locationName: "lucknow",
-  units: "imperial",
+  units: "metric",
 });
 
 const apiHandler =
