@@ -16,7 +16,7 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center"> Practo Jedi School Weather App
     <br> 
 </p>
 
@@ -34,7 +34,8 @@
 
 ## 🧐 About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+This project is build for the Practo FE04 , react weather App using
+open weather Api this Api is free to use and help to fetch current weather Data
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
@@ -42,7 +43,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them.
+npm 5.2+
 
 ```
 Give examples
@@ -55,52 +56,27 @@ A step by step series of examples that tell you how to get a development env run
 Say what the step will be
 
 ```
-Give the example
+clone https://github.com/gauravPracto/FE04.git
+cd FE04/weather-app
+npm install
+npm start
 ```
 
-And repeat
-
-```
 until finished
-```
 
-End with an example of getting some data out of the system or using it for a little demo.
-
-## 🔧 Running the tests <a name = "tests"></a>
-
-Explain how to run the automated tests for this system.
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
 ```
 
 ## 🎈 Usage <a name="usage"></a>
 
-Add notes about how to use the system.
+As you Like
 
-## 🚀 Deployment <a name = "deployment"></a>
-
-Add additional notes about how to deploy this on a live system.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
-
+- [JavaScript](https://www.javascript.com/) - language
+- [React](https://reactjs.org/) - frontend Library
+- [@redux-toolkit](https://redux-toolkit.js.org/) - redux library
+- [reactStrap] (https://reactstrap.github.io/) - customize
 ## ✍️ Authors <a name = "authors"></a>
 
 - [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
@@ -112,3 +88,4 @@ See also the list of [contributors](https://github.com/kylelobo/The-Documentatio
 - Hat tip to anyone whose code was used
 - Inspiration
 - References
+```
